@@ -27,4 +27,5 @@ It processes raw PDF data, extracts insights, and generates a professional repor
 - Automated thermal image interpretation
 - Structured JSON pipelines
 - Validation and consistency checks
+
 **“The system is designed to be model-agnostic and can integrate with multiple LLM providers.”**
